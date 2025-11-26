@@ -1,0 +1,4 @@
+/home/pavel/MyFiles/OOP_labs/OOP_lab5/build/CMakeFiles/lab_5_lib.dir
+/home/pavel/MyFiles/OOP_labs/OOP_lab5/build/CMakeFiles/lab_5_exe.dir
+/home/pavel/MyFiles/OOP_labs/OOP_lab5/build/CMakeFiles/edit_cache.dir
+/home/pavel/MyFiles/OOP_labs/OOP_lab5/build/CMakeFiles/rebuild_cache.dir
